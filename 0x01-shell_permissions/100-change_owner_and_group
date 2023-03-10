@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chown [vincent][:[staff0]]
+sudo chown vincent:staff
